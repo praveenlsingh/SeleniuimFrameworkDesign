@@ -1,0 +1,21 @@
+https://rahulshettyacademy.com/client/
+praveenlsingh@gmail.com
+Test@12345
+
+mvn test -P Purchase
+
+mvn test -PErrorValidation -Dbrowser=edge
+
+iim jobs -
+15 jobs -
+linkdin - 
+job id and title -
+
+ATS - application, tracking, shortlisting.
+
+tues, wed, fri
+
+11 to 4 in evening
+
+
+10 resumes everyday
